@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "75153324738",
+    "firebase_url": "https://convertor-all.firebaseio.com",
+    "project_id": "convertor-all",
+    "storage_bucket": "convertor-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75153324738:android:f669c2b8d399ef5b",
+        "android_client_info": {
+          "package_name": "com.vinrak.automaticramcleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhMdmoGsTx9g7b5fJlUZMfFmUFvEffa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75153324738:android:69dbefbdfbbfa2b357995b",
+        "android_client_info": {
+          "package_name": "com.vinrak.hack.prank.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhMdmoGsTx9g7b5fJlUZMfFmUFvEffa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75153324738:android:86e7ace439ba7c3457995b",
+        "android_client_info": {
+          "package_name": "com.vinrak.hourlyalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhMdmoGsTx9g7b5fJlUZMfFmUFvEffa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75153324738:android:5c304f7eba54e6ec",
+        "android_client_info": {
+          "package_name": "com.vinrak.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhMdmoGsTx9g7b5fJlUZMfFmUFvEffa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75153324738-in86rvpfqq6vr94n9ksl098mg5am0qjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
